@@ -42,6 +42,10 @@ const productSchema = new mongoose.Schema({
   distribution_center_id: {
     type: Number,
     required: true
+  },
+  image: {
+    type: String,
+    default: ''
   }
 }, {
   timestamps: true,
