@@ -1,0 +1,9 @@
+{
+  "short_name": "AuraMarket",
+  "name": "AuraMarket Products Catalog",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff"
+}
